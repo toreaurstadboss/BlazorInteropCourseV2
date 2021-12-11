@@ -1,0 +1,12 @@
+C:\src\Blazor-Interop\javascript-interop-blazor-applications\02\demos\before\BethanysPieShopHRM.Shared\bin\Debug\net5.0\BethanysPieShopHRM.Shared.deps.json
+C:\src\Blazor-Interop\javascript-interop-blazor-applications\02\demos\before\BethanysPieShopHRM.Shared\bin\Debug\net5.0\BethanysPieShopHRM.Shared.dll
+C:\src\Blazor-Interop\javascript-interop-blazor-applications\02\demos\before\BethanysPieShopHRM.Shared\bin\Debug\net5.0\ref\BethanysPieShopHRM.Shared.dll
+C:\src\Blazor-Interop\javascript-interop-blazor-applications\02\demos\before\BethanysPieShopHRM.Shared\bin\Debug\net5.0\BethanysPieShopHRM.Shared.pdb
+C:\src\Blazor-Interop\javascript-interop-blazor-applications\02\demos\before\BethanysPieShopHRM.Shared\obj\Debug\net5.0\BethanysPieShopHRM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Blazor-Interop\javascript-interop-blazor-applications\02\demos\before\BethanysPieShopHRM.Shared\obj\Debug\net5.0\BethanysPieShopHRM.Shared.AssemblyInfoInputs.cache
+C:\src\Blazor-Interop\javascript-interop-blazor-applications\02\demos\before\BethanysPieShopHRM.Shared\obj\Debug\net5.0\BethanysPieShopHRM.Shared.AssemblyInfo.cs
+C:\src\Blazor-Interop\javascript-interop-blazor-applications\02\demos\before\BethanysPieShopHRM.Shared\obj\Debug\net5.0\BethanysPieShopHRM.Shared.csproj.CoreCompileInputs.cache
+C:\src\Blazor-Interop\javascript-interop-blazor-applications\02\demos\before\BethanysPieShopHRM.Shared\obj\Debug\net5.0\BethanysPieShopHRM.Shared.dll
+C:\src\Blazor-Interop\javascript-interop-blazor-applications\02\demos\before\BethanysPieShopHRM.Shared\obj\Debug\net5.0\ref\BethanysPieShopHRM.Shared.dll
+C:\src\Blazor-Interop\javascript-interop-blazor-applications\02\demos\before\BethanysPieShopHRM.Shared\obj\Debug\net5.0\BethanysPieShopHRM.Shared.pdb
+C:\src\Blazor-Interop\javascript-interop-blazor-applications\02\demos\before\BethanysPieShopHRM.Shared\obj\Debug\net5.0\BethanysPieShopHRM.Shared.csproj.AssemblyReference.cache

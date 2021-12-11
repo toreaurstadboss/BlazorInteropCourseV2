@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f78bc946-b08b-49d1-8d76-a2e2eb2aad7e": {
+      "ProjectGuid": "f78bc946-b08b-49d1-8d76-a2e2eb2aad7e",
+      "DisplayName": "BethanysPieShopHRM.ServerApp",
+      "ColorIndex": 0
+    },
+    "bd196906-ca10-437e-bbcc-a8bc2a954f13": {
+      "ProjectGuid": "bd196906-ca10-437e-bbcc-a8bc2a954f13",
+      "DisplayName": "BethanysPieShopHRM.ComponentsLibrary",
+      "ColorIndex": 1
+    },
+    "369581f2-82e5-45e8-bf3c-9e1cc83dd769": {
+      "ProjectGuid": "369581f2-82e5-45e8-bf3c-9e1cc83dd769",
+      "DisplayName": "BethanysPieShopHRM.Shared",
+      "ColorIndex": 2
+    },
+    "593d0645-cc20-4453-abe7-71101c25f96e": {
+      "ProjectGuid": "593d0645-cc20-4453-abe7-71101c25f96e",
+      "DisplayName": "BethanysPieShopHRM.OnlineCheckLibrary",
+      "ColorIndex": 3
+    },
+    "5a861a56-e492-49ae-a41a-cfde12a906a2": {
+      "ProjectGuid": "5a861a56-e492-49ae-a41a-cfde12a906a2",
+      "DisplayName": "BethanysPieShopHRM.OnlineCheckLibrary",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

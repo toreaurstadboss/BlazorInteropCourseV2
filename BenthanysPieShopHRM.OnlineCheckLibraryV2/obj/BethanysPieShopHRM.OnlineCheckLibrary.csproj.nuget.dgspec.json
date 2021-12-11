@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\src\\Blazor-Interop\\javascript-interop-blazor-applications\\02\\demos\\before\\BenthanysPieShopHRM.OnlineCheckLibraryV2\\BethanysPieShopHRM.OnlineCheckLibrary.csproj": {}
+  },
+  "projects": {
+    "C:\\src\\Blazor-Interop\\javascript-interop-blazor-applications\\02\\demos\\before\\BenthanysPieShopHRM.OnlineCheckLibraryV2\\BethanysPieShopHRM.OnlineCheckLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\src\\Blazor-Interop\\javascript-interop-blazor-applications\\02\\demos\\before\\BenthanysPieShopHRM.OnlineCheckLibraryV2\\BethanysPieShopHRM.OnlineCheckLibrary.csproj",
+        "projectName": "BethanysPieShopHRM.OnlineCheckLibrary",
+        "projectPath": "C:\\src\\Blazor-Interop\\javascript-interop-blazor-applications\\02\\demos\\before\\BenthanysPieShopHRM.OnlineCheckLibraryV2\\BethanysPieShopHRM.OnlineCheckLibrary.csproj",
+        "packagesPath": "C:\\Users\\toaurs-he\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\Blazor-Interop\\javascript-interop-blazor-applications\\02\\demos\\before\\BenthanysPieShopHRM.OnlineCheckLibraryV2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\toaurs-he\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

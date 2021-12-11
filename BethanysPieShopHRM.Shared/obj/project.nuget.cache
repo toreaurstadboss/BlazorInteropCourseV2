@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j9Ad8RFgJqcEuwyOKkiVnUmrr7lBka3KJIjkXIcD/DsTMDiy4XHyxObJlCbzl2h9dNLB16PWIOHec84X4n69Aw==",
+  "success": true,
+  "projectFilePath": "C:\\src\\Blazor-Interop\\javascript-interop-blazor-applications\\02\\demos\\before\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toaurs-he\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
